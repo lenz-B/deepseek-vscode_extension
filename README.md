@@ -176,6 +176,7 @@ Create your own AI coding assistant! This extension lets you chat with **DeepSee
 
 ## YouTube Tutorials
 1. [Using Ollama & Vs Code Extention](https://youtu.be/hAqBEm4wRsk)  
-2. [Using Ollama, Docker, Open WebUI](https://youtu.be/clJCDHml2cA)
+2. [Using Ollama, Docker & Open WebUI](https://youtu.be/clJCDHml2cA)
+3. [Malayalam Tutorial](https://youtu.be/Y0yRsaNGJw0)
 
 ---
